@@ -1,2 +1,2 @@
 # DocDesk
-This is my first Git Respositry
+This is my first Git repository
